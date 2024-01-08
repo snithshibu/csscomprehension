@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ac3e31;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .card {
+    width: 500px;
+    height: 600px;
+    background-color: #d23d41;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: left;
+  }
+  
+  .photo {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .name {
+    margin: 0;
+    font-size: 1.5ev;
+    color: #333;
+  }
+ 
